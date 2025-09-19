@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(255, 115, 21);
+	color: rgb(35, 32, 32);
+	text-align: center;
+}
+.website{
+	width: 50%;
+	margin-left: 25%;
+}
+img{
+	width: 100%;
+	border: solid 5px rgb(58, 53, 53);
+}
+#posters img{
+	border: none;
+	width: 50%;
+	text-align: center;
+}
+#eersteposter{
+	font-family: "Asimovian", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+#tweedeposter{
+	font-family: "Geo", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
